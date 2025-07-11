@@ -1,0 +1,14 @@
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/bin/Debug/net9.0/helloworld
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/bin/Debug/net9.0/helloworld.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/bin/Debug/net9.0/helloworld.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/bin/Debug/net9.0/helloworld.dll
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/bin/Debug/net9.0/helloworld.pdb
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/helloworld.dll
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/refint/helloworld.dll
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/helloworld.pdb
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/helloworld.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/helloworld/obj/Debug/net9.0/ref/helloworld.dll

@@ -1,0 +1,14 @@
+/Users/nirmalpandey/Documents/DotNetcore/branching/bin/Debug/net9.0/branching
+/Users/nirmalpandey/Documents/DotNetcore/branching/bin/Debug/net9.0/branching.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/branching/bin/Debug/net9.0/branching.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/branching/bin/Debug/net9.0/branching.dll
+/Users/nirmalpandey/Documents/DotNetcore/branching/bin/Debug/net9.0/branching.pdb
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/branching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/branching.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/branching.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/branching.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/branching.dll
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/refint/branching.dll
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/branching.pdb
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/branching.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/branching/obj/Debug/net9.0/ref/branching.dll

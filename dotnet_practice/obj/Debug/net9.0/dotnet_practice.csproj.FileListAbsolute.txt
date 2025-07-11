@@ -1,0 +1,14 @@
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/bin/Debug/net9.0/dotnet_practice
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/bin/Debug/net9.0/dotnet_practice.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/bin/Debug/net9.0/dotnet_practice.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/bin/Debug/net9.0/dotnet_practice.dll
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/bin/Debug/net9.0/dotnet_practice.pdb
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/dotnet_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/dotnet_practice.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/dotnet_practice.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/dotnet_practice.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/dotnet_practice.dll
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/refint/dotnet_practice.dll
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/dotnet_practice.pdb
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/dotnet_practice.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/dotnet_practice/obj/Debug/net9.0/ref/dotnet_practice.dll

@@ -1,0 +1,14 @@
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/bin/Debug/net9.0/Numbers
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/bin/Debug/net9.0/Numbers.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/bin/Debug/net9.0/Numbers.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/bin/Debug/net9.0/Numbers.dll
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/bin/Debug/net9.0/Numbers.pdb
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/Numbers.dll
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/refint/Numbers.dll
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/Numbers.pdb
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/Numbers.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/Numbers/obj/Debug/net9.0/ref/Numbers.dll
