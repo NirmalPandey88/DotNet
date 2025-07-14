@@ -20,5 +20,10 @@ Console.WriteLine(f);
 //Here we are casting a double to an int, which will truncate the decimal part.
 int g = (int)22.33;
 int h = (int)43.33;
-Console.WriteLine(g);
+Console.WriteLine(g);// Output: 22
+Console.WriteLine(h);// Output: 43
+
+Console.WriteLine($"The sum of {g} and {h} is {g + h}"); // Output: The sum of 22 and 43 is 65
+Console.WriteLine($"The sum of {g} and {h} is {g + h}"); // Output: The sum of 22 and 43 is 65
+
 

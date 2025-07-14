@@ -1,0 +1,15 @@
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.sourcelink.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/bin/Debug/net9.0/constructor
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/bin/Debug/net9.0/constructor.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/bin/Debug/net9.0/constructor.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/bin/Debug/net9.0/constructor.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/bin/Debug/net9.0/constructor.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/refint/constructor.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/constructor.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/Debug/net9.0/ref/constructor.dll

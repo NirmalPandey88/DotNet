@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/forloop.csproj",
-      "projectName": "forloop",
-      "projectPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/forloop.csproj",
+      "projectUniqueName": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/constructor.csproj",
+      "projectName": "constructor",
+      "projectPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/constructor.csproj",
       "packagesPath": "/Users/nirmalpandey/.nuget/packages/",
-      "outputPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/",
+      "outputPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/constructor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nirmalpandey/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/forloop.csproj": {}
+    "/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/properties.csproj": {}
   },
   "projects": {
-    "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/forloop.csproj": {
+    "/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/forloop.csproj",
-        "projectName": "forloop",
-        "projectPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/forloop.csproj",
+        "projectUniqueName": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/properties.csproj",
+        "projectName": "properties",
+        "projectPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/properties.csproj",
         "packagesPath": "/Users/nirmalpandey/.nuget/packages/",
-        "outputPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/",
+        "outputPath": "/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nirmalpandey/.nuget/NuGet/NuGet.Config"

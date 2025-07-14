@@ -1,0 +1,15 @@
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/bin/Debug/net9.0/properties
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/bin/Debug/net9.0/properties.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/bin/Debug/net9.0/properties.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/bin/Debug/net9.0/properties.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/bin/Debug/net9.0/properties.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.sourcelink.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/refint/properties.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/properties.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/properties/obj/Debug/net9.0/ref/properties.dll

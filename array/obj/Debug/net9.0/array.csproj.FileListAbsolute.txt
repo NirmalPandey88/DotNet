@@ -1,0 +1,15 @@
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.sourcelink.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/bin/Debug/net9.0/array
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/bin/Debug/net9.0/array.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/bin/Debug/net9.0/array.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/bin/Debug/net9.0/array.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/bin/Debug/net9.0/array.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/refint/array.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/array.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/array/obj/Debug/net9.0/ref/array.dll

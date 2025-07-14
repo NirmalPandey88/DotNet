@@ -1,0 +1,15 @@
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/bin/Debug/net9.0/forloop
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/bin/Debug/net9.0/forloop.deps.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/bin/Debug/net9.0/forloop.runtimeconfig.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/bin/Debug/net9.0/forloop.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/bin/Debug/net9.0/forloop.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.AssemblyInfoInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.AssemblyInfo.cs
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.csproj.CoreCompileInputs.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.sourcelink.json
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/refint/forloop.dll
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.pdb
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/forloop.genruntimeconfig.cache
+/Users/nirmalpandey/Documents/DotNetcore/DotNet/forloop/obj/Debug/net9.0/ref/forloop.dll
